@@ -17,3 +17,4 @@ Mediante el uso de "IA" se decidió entre dos opciones. A continuación, se adju
 
 [Justificación Módulo 1.pdf](https://github.com/user-attachments/files/34453238/Justificacion.Modulo.1.pdf)
 
+[Cuaderno Gemini Notebook](https://notebook.google.com/notebook/966bf8c8-2d80-4893-bb09-a6b1e4edc8bb)
